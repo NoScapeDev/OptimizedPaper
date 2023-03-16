@@ -1,5 +1,5 @@
 # OptimizedPaper
-<sub>Optimized Paper Server Files</sub>
+Optimized Paper Server Files
 
 I will try my best to keep this updated to the latest version.
 
