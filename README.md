@@ -1,9 +1,9 @@
 # OptimizedPaper
 Optimized Paper Server Files
 
-I will try my best to update this to the latest.
+I will try my best to keep this updated to the latest version.
 
-# Suggested Jars
+# Suggested Server Software Jars
 
-https://papermc.io/downloads
-https://purpurmc.org
+**PaperMC** [PaperMC](https://papermc.io/downloads)
+**Purpur** [PaperMC](https://purpurmc.org)
